@@ -38,7 +38,6 @@ you should have empty password by deafault
 2. Go to "http://localhost/PhpProject1/index.php"
 3. Enjoy using the site after successfully completing all setup :)
 
-## License
 
 © Samir Mammadov, UEHS.
 
